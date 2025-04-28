@@ -53,3 +53,41 @@ Create pipeline and choose classic editor
 ![alt text](image-13.png)
 
 ![alt text](image-14.png)
+
+Choose Helm chart
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+Select pom.xml for maven build
+
+![alt text](image-18.png)
+
+Goals  - Clean Install
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+# Waiting for Microsoft Approval to get free parallel host to run pipeline
+
+
+Next step is to create Release Pipe Line
+
+![alt text](image-23.png)
+
+Search for Helm 
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
