@@ -1,5 +1,7 @@
 
 # Setup AKS Cluster & Deploy Springboot Docker Container to AKS Cluster using Helm and Azure Pipeline
+![image](https://github.com/user-attachments/assets/45cb69f0-562c-44ee-96f4-6d89020755e9)
+
 
 First I have created simple Spring Boot Java project in Intellij
 
