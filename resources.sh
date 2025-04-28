@@ -11,7 +11,7 @@ AKS_CLUSTER=aks-cluster
 
 # set ACR name
 
-ACR_NAME=myacrrepo531
+ACR_NAME=bijuecrregistry
 
 
 
