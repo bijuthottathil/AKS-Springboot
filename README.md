@@ -40,9 +40,16 @@ Cluster is running
 
 ![alt text](image-9.png)
 
-creating helm chart using create helm chart command
+creating helm chart using create helm chart command  helm create my-aks-chart
 
-![alt text](image-6.png)
-
+![alt text](image-11.png)
 Helm chart is created with all yaml templates
-![alt text](image-10.png)
+
+
+![alt text](image-12.png)
+
+Create pipeline and choose classic editor
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
