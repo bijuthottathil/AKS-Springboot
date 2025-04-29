@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: bijuecrregistry.azurecr.io/bijuthottathil/docker-spring-boot
+  repository: bijuecrregistry.azurecr.io/bijuthottathil/aks-springboot
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "8"
+  tag: ""
 
 imagePullSecrets: []
 nameOverride: ""
